@@ -1,7 +1,8 @@
 # 👋 Hi, I'm jun960303  
 
-저는 Java와 웹 개발을 공부하고 있는 개발자입니다.  
-꾸준히 성장하고, 새로운 기술을 배우며, 프로젝트로 경험을 쌓고 있습니다. 🚀  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=4A90E2&center=true&vCenter=true&lines=Welcome+to+my+GitHub!;I'm+a+Java+Developer;I+love+learning+new+tech;Let's+code+together+🚀" />
+</p>
 
 ---
 
@@ -23,6 +24,16 @@
 
 ## 🌱 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jun960303&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 Streak Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jun960303&theme=tokyonight)](https://git.io/streak-stats)
+
+---
+
+## 📈 Activity Graph
+![jun960303's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jun960303&theme=tokyo-night)
 
 ---
 
