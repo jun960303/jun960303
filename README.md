@@ -1,51 +1,81 @@
-<p align="center">
-  <img src="./assets/profile-hero.svg" width="100%" alt="김형준 · Backend & Automation — 아이디어를 서비스로, 반복을 자동화로." />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+  <img src="./assets/hero-light.svg" width="100%" alt="김형준 · Backend & Automation Developer — 아이디어를 서비스로, 반복을 자동화로.">
+</picture>
 
 <p align="center">
-  <a href="https://jun960303.github.io/portfolio"><b>포트폴리오 ↗</b></a>
-  &nbsp;&nbsp; / &nbsp;&nbsp;
-  <a href="https://github.com/jun960303?tab=repositories"><b>전체 프로젝트 ↗</b></a>
-  &nbsp;&nbsp; / &nbsp;&nbsp;
-  <a href="#selected-projects"><b>대표 프로젝트 ↓</b></a>
+  <a href="https://jun960303.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-보러가기-111827?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
+  <a href="http://gapmusic.duckdns.org"><img src="https://img.shields.io/badge/Live_Demo-YouAreGABIA-65a30d?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"></a>
+  <a href="https://github.com/jun960303?tab=repositories"><img src="https://img.shields.io/badge/Repositories-전체_보기-0e7490?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"></a>
 </p>
 
 <br>
 
-### 안녕하세요, 김형준입니다.
+## 👋 About
 
-**Java·Spring 기반 웹 개발과 Python 자동화 도구를 만들고 있습니다.**  
-사용자가 여러 화면과 반복 작업을 오가는 불편을 줄이고, 필요한 기능이 하나의 흐름으로 이어지는 서비스를 지향합니다.
+**Java · Spring 백엔드**와 **Python 자동화**를 주로 다루는 개발자 김형준입니다.
 
-| SERVICE | AUTOMATION | EXPERIENCE |
-| :--- | :--- | :--- |
-| 웹 서비스와 백엔드 개발 | 데이터 수집·정리·내보내기 | 사용하기 쉬운 화면과 작업 흐름 |
-| Java · Spring · MySQL | Python · SQLite | React · TypeScript |
+- 🧩 흩어진 기능을 **하나의 흐름으로 잇는 서비스**를 만듭니다
+- ⚙️ 사람이 반복하는 일은 **클릭 한 번으로 끝나는 도구**로 바꿉니다
+- 🔁 실제 사용자의 피드백으로 **계속 고쳐 나가는 것**을 좋아합니다
 
 <br>
 
-<h2 id="selected-projects">Selected Projects</h2>
+## 🛠 Tech Stack
+
+| | |
+| :-- | :-- |
+| **Backend** | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **AI · Automation** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
+
+<br>
+
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/jun960303/portfolio"><img src="./assets/music.svg" width="100%" alt="YouAreGABIA 음악 플랫폼" /></a>
 
-**음악 스트리밍 · 커뮤니티 플랫폼**
+<a href="https://github.com/jun960303/portfolio">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/card-music-dark.svg">
+  <img src="./assets/card-music-light.svg" width="100%" alt="YouAreGABIA 음악 플랫폼">
+</picture>
+</a>
 
-음악 감상, 추천, 플레이리스트와 커뮤니티를 연결한 팀 프로젝트입니다. 포트폴리오에서 서비스 구성과 구현 내용을 확인할 수 있습니다.
+**🎵 음악 스트리밍 · 커뮤니티 플랫폼**
+<sub>2026.01 – 04 · 4인 팀 프로젝트</sub>
 
-[프로젝트 소개 →](https://github.com/jun960303/portfolio) · [백엔드 코드 →](https://github.com/jun960303/youaregabia_backend)
+유튜브·커뮤니티·퀴즈 앱으로 흩어진 음악 활동을 한 플랫폼으로 묶었습니다.
+
+- **AI 음악 추천** — FAISS 유사도 + Last.fm 하이브리드
+- **AI 챗봇** — GPT 추천 결과를 iTunes API로 검증
+- **공동 플레이리스트** — 곡 제안 · 투표 · 자동 선정
+
+[소개](https://github.com/jun960303/portfolio) · [백엔드 코드](https://github.com/jun960303/youaregabia_backend) · [라이브 데모](http://gapmusic.duckdns.org)
 
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/jun960303/ipo-crawler"><img src="./assets/automation.svg" width="100%" alt="IPO Crawler 공모주 자동 수집 도구" /></a>
 
-**공모주 정보 수집 · 조회 · 엑셀 출력**
+<a href="https://github.com/jun960303/ipo-crawler">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/card-ipo-dark.svg">
+  <img src="./assets/card-ipo-light.svg" width="100%" alt="IPO Crawler 공모주 자동 수집 도구">
+</picture>
+</a>
 
-반복적인 정보 확인을 줄이기 위한 데스크톱 도구입니다. 수집한 일정을 저장하고, 화면 조회와 엑셀 내보내기로 이어집니다.
+**📈 공모주 자동 수집 데스크톱 도구**
+<sub>개인 프로젝트 · 가족이 실제로 쓰는 도구</sub>
 
-[프로젝트 소개 및 코드 →](https://github.com/jun960303/ipo-crawler)
+매번 사이트를 돌며 확인하던 공모주 일정을 버튼 하나로 모아 줍니다.
+
+- **자동 수집** — 청약일 · 수요예측 · 상장일 크롤링
+- **중복 없는 저장** — 새 일정만 SQLite에 누적
+- **엑셀 내보내기** — 서식까지 맞춘 파일을 바탕화면에
+
+[소개 및 코드](https://github.com/jun960303/ipo-crawler)
 
 </td>
 </tr>
@@ -53,30 +83,7 @@
 
 <br>
 
-## Tools & Technologies
-
-프로젝트에서 사용하며 경험을 쌓고 있는 기술입니다.
-
-| 영역 | 기술 |
-| :--- | :--- |
-| **Backend** | Java · Spring / Spring Boot · JPA |
-| **Frontend** | React · TypeScript · JavaScript · HTML / CSS |
-| **Data & Automation** | Python · MySQL · SQLite · 웹 데이터 수집 |
-| **Development** | Git · GitHub · IntelliJ IDEA · VS Code |
-
-<br>
-
-## Build Notes
-
-- **반복을 줄이는 도구** — 수집, 중복 확인, 저장, 내보내기를 연결합니다.
-- **흐름이 이어지는 서비스** — 기능 하나보다 사용자가 목적을 달성하는 과정을 고민합니다.
-- **계속 다듬는 구현** — 실제 사용 중 발견한 불편을 다음 개선으로 이어갑니다.
-
-<br>
-
----
-
 <p align="center">
   <sub>작은 불편을 발견하고, 직접 만들고, 계속 개선합니다.</sub><br>
-  <sub><b>김형준 · jun960303</b></sub>
+  <sub><b>© 김형준 · jun960303</b></sub>
 </p>
